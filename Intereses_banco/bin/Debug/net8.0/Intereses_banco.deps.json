@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Intereses_banco/1.0.0": {
+        "runtime": {
+          "Intereses_banco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intereses_banco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

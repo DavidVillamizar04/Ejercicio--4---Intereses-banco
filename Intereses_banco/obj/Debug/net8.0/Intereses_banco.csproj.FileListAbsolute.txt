@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\bin\Debug\net8.0\Intereses_banco.exe
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\bin\Debug\net8.0\Intereses_banco.deps.json
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\bin\Debug\net8.0\Intereses_banco.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\bin\Debug\net8.0\Intereses_banco.dll
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\bin\Debug\net8.0\Intereses_banco.pdb
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\obj\Debug\net8.0\Intereses_banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\obj\Debug\net8.0\Intereses_banco.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\obj\Debug\net8.0\Intereses_banco.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\obj\Debug\net8.0\Intereses_banco.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\obj\Debug\net8.0\Intereses_banco.dll
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\obj\Debug\net8.0\refint\Intereses_banco.dll
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\obj\Debug\net8.0\Intereses_banco.pdb
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\obj\Debug\net8.0\Intereses_banco.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Intereses banco\Intereses_banco\obj\Debug\net8.0\ref\Intereses_banco.dll
